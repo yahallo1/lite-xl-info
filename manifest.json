@@ -1,0 +1,11 @@
+{
+  "addons": [{
+    "id": "lite-xl-info",
+    "mod_version": "3",
+    "type": "plugin",
+    "version": "0.1",
+    "path": ".",
+    "description": "Info reader for Lite XL.",
+    "dependencies": {}
+  }]
+}
